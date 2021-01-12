@@ -72,4 +72,23 @@ body{
     border-bottom: 2px solid chocolate;
     margin-top: 265px;
     margin-left: 250px;
+    margin-bottom: 30px;
+}
+.about-sec{
+    padding-right: 20px;
+    padding-left: 520px;
+}
+.last{
+    font-size: 30px;
+    font-weight: 600px;
+}
+.last-pera{
+    text-align: justify;
+    font-size: 14px;
+    margin: 0px;
+    padding: 2px;
+}
+.meimg{
+    width: 30%;
+    padding-left: 30px;
 }
