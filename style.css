@@ -1,3 +1,55 @@
-.body{
+body{
+    background-color: antiquewhite;
+    margin: 10px 40px;
+    padding: 20px;
+}
+.link-button{
+    text-decoration: none;
+    text-align: center;
+    margin:30px;
+    padding: 5px;
+    color: black;
     
+}
+.design-div{
+    text-align: center;
+    margin-top: 20px;
+}
+.color-font{
+    font-size: 25px;
+    color: tomato;
+}
+.font-hk{
+    font-size: 35px;
+    color: black;
+    font-family: 'Potta One', cursive;
+}
+.pra{
+    font-size: small;
+    color: black;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+.img{
+    width: 380px;
+    float: right;
+    margin-right: 100px;
+    margin-top: 30px;
+    align-content: right;
+}
+.button{
+    text-decoration: none;
+    background-color: aqua;
+    padding: 10px;
+    margin: 10px;
+    color: black;
+    border-radius: 30px;
+}
+.button-2{
+    text-decoration: none;
+    background-color: salmon;
+    padding: 10px;
+    margin: 10px 20px 10px 20px;
+    color: black;
+    border-radius: 30px;
 }
